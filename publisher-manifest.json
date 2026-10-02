@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "757a5b739c70340d80e285ab",
+  "owner": "jmujsmm",
+  "repo": "page-793b7b52102ec118b2f4153e",
+  "title": "快鱼(Fastfish)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "793b7b52102ec118b2f4153e",
+      "a": "快鱼(Fastfish)",
+      "b": "",
+      "entity": "快鱼(Fastfish)",
+      "brand": "快鱼(Fastfish)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "24e7841bea066718c53af91acb16a726105210af8feaebbab9e0fc8b5ca9391c",
+      "content": {
+        "keyword1": "快鱼(Fastfish)",
+        "keyword2": "",
+        "primary_entity": "快鱼(Fastfish)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快鱼(Fastfish)提供稳定的机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏IPLC与多设备客户端下载，基础版、旗舰版、团队版套餐可在官网选购。",
+          "AI_DESCRIPTION": "快鱼(Fastfish)提供稳定的机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏IPLC与多设备客户端下载，基础版、旗舰版、团队版套餐可在官网选购。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#FFF8F4;color:#2C2C2C;font-size:16px;line-height:1.65;overflow-wrap:break-word;word-wrap:break-word}a{color:#D94B3A}header{background:#FFFFFF;border-bottom:4px solid #E25B4C;padding:12px 16px}.wrap{max-width:920px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:10px 16px}nav a{text-decoration:none;font-weight:600}h1{font-size:1.75rem;color:#C43628;margin:24px 0 8px}.lead{font-size:1.05rem;color:#4A4A4A;margin-bottom:24px}h2{font-size:1.35rem;color:#C43628;margin:32px 0 12px;padding-bottom:6px;border-bottom:2px solid #F5C4BC}h3{font-size:1.1rem;color:#D94B3A;margin:16px 0 8px}.cols{display:flex;flex-wrap:wrap;gap:16px}.cols>article{flex:1 1 280px;background:#FFFFFF;padding:16px;border:1px solid #F0D4CE}.plans{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch}.plan{flex:1 1 250px;background:#FFFFFF;padding:18px;border:1px solid #E8C8C2}.plan.hot{background:#FFF3EF;border:2px solid #E25B4C}.badge{display:inline-block;background:#E25B4C;color:#fff;font-size:12px;padding:2px 8px;font-weight:700}.price{font-size:1.4rem;font-weight:700;color:#E25B4C;margin:8px 0}.annual{color:#666;font-size:0.9rem}.plan ul{padding-left:18px;margin:12px 0}.plan li{margin:6px 0}ol.steps{padding-left:20px}details{background:#fff;border:1px solid #EED8D4;padding:10px 14px;margin:10px 0}summary{font-weight:600;color:#B83226}footer{margin-top:40px;background:#FFFFFF;border-top:3px solid #E25B4C;padding:20px 16px 40px;font-size:0.95rem}footer ul{padding-left:18px}.adbox{background:#FFF0EB;border:1px dashed #E25B4C;padding:14px;margin:16px 0}p,li{max-width:100%}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐对比</a><a href=\"#usage\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>快鱼(Fastfish)</h1><p class=\"lead\">官方网站 · 机场订阅 · VPN 梯子网络加速与加速器客户端下载指引</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"cols\"><article><p>快鱼(Fastfish)面向个人用户与小型团队提供跨境网络加速服务。通过精选中转与专线节点，帮助用户更稳定地访问国际网站、流媒体与协作工具。本页为快鱼官方网站信息页，集中说明套餐、使用场景、导入步骤与客户端获取方式。</p><p>服务形态以机场订阅为主：购买对应套餐后获得订阅链接，在常用代理客户端中导入即可切换节点。旗舰线路包含 IPLC 游戏优化与原生流媒体解锁能力，适合对延迟与解锁完整性有更高要求的用户。</p></article><article><h3>为什么选择快鱼</h3><p>套餐分层清晰，流量与设备数按档位给出，避免含糊承诺。基础版覆盖日常浏览与基础流媒体；旗舰版强化专线与工单优先级；团队版面向多终端与定制路由。官方下载指引强调使用正规客户端，仅导入本站订阅，降低来源不明安装包风险。</p><p>节点方向覆盖常见亚太与北美出口，日常用于学术资料、远程会议、内容平台与部分在线对战。具体可用节点以账号面板实时列表为准。</p></article></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为当前固定档位，价格按月展示，并给出按年付优惠说明。请按设备数量、流量与线路需求选择，旗舰版适合大多数个人重度使用。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan hot\"><h3>旗舰版 <span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"usage\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>在旗舰版与团队版下，可按节点策略访问常见国际视频与音乐平台。基础版提供基础解锁，遇到地区限制时可切换备选节点。请遵守各平台用户协议与当地法律法规。</p><h3>游戏与低延迟链路</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对丢包与抖动敏感的对战与更新下载。实际延迟受本地宽带、高峰拥塞与游戏服务器位置影响，建议在客户端内测速后固定线路。</p><h3>远程办公、开发与学习</h3><p>代码托管、文献数据库、跨国会议与云控制台是高频场景。团队版支持更多同时在线设备与定制路由，便于把办公网段与娱乐流量分开。公共场所请配合终端防火墙与强密码。</p></section><section id=\"guide\"><h2>操作说明</h2><p>快鱼采用订阅制：完成套餐开通后，在用户中心复制订阅地址，再导入客户端。不要把订阅链接公开发布，避免流量被盗用。</p><ol class=\"steps\"><li>对照套餐对比选择基础版、旗舰版或团队版，并确认设备数与流量是否够用。</li><li>按开通渠道完成支付后，进入面板查看剩余流量、到期时间与订阅 URL。</li><li>在电脑或手机安装对应系统的代理客户端（见下方客户端下载说明）。</li><li>选择“订阅 / 从 URL 导入”，粘贴快鱼订阅链接并更新节点列表。</li><li>按用途选择普通中转或 IPLC 节点，开启系统代理或 TUN 模式后访问目标网站验证。</li></ol><p>若导入失败，检查链接是否完整、客户端是否支持当前订阅格式，以及系统时间是否准确。工单优先通道仅旗舰版与团队版适用。</p></section><section id=\"download\"><h2>客户端下载</h2><p>快鱼官方网站不托管第三方安装包，请从应用商店或客户端项目的正规发布页获取软件，再仅导入本站订阅。常见组合如下：</p><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端管理规则与节点。导入后建议开启系统代理，浏览器无需单独装扩展。路由器用户可将订阅用于支持的旁路网关，注意设备数限制。</p><h3>移动端</h3><p>Android 可使用 Clash Meta 类应用；iOS 常用 Shadowrocket、Stash 等需自行于商店购买或下载的客户端。同一账号同时在线设备不可超过套餐上限。</p><p><a href=\"#guide\">返回操作说明</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">客户端常见问题</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>快鱼(Fastfish)是机场还是传统 VPN 客户端？</summary><p>快鱼以机场订阅方式交付节点，用户在自选客户端中导入链接后使用，而不是强制安装单一闭源 App。这样可以按系统选择 Clash、Shadowrocket 等工具，也方便桌面与手机共用同一套餐。</p></details><details><summary>如何完成官网下载与订阅导入？</summary><p>本站提供官方说明与锚点导航，不直接分发安装文件。请先在正规渠道安装客户端，再登录快鱼用户中心复制订阅地址并导入。若商店无法搜索到某款工具，可更换同协议的替代客户端，只要支持订阅即可。</p></details><details><summary>三个套餐该怎么选？流量不够用怎么办？</summary><p>轻度浏览与三台设备以内选基础版；需要原生流媒体、游戏专线与优先工单选旗舰版；多成员或多终端选团队版。流量按自然月或套餐周期统计，用尽后通常会限速或暂停加速，可在面板升级档位或等待下一周期重置，具体以开通时规则为准。</p></details><details><summary>是否支持流媒体解锁和 IPLC 游戏加速？</summary><p>基础版为普通线路与基础解锁；旗舰版写明全节点原生流媒体解锁与 IPLC 游戏优化；团队版在此基础上提供 VIP 高带宽与定制路由。解锁结果会随平台策略变化，建议收藏备用节点而不是只依赖单一入口。</p></details><details><summary>哪些系统可以同时在线？会不会冲突？</summary><p>电脑、手机、平板和部分路由器都可接入，但同时在线数量受套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后可能被踢下线。同一订阅不要分享给套餐外的人，以免触发风控。</p></details><details><summary>连接失败或速度慢时如何排查？</summary><p>先确认订阅已更新、本地网络正常、系统时间正确，再更换节点协议或地区。高峰期可改用专线或邻近国家出口。若仅某个网站异常，检查分流规则是否误伤。旗舰与团队用户可通过优先工单提交节点名称与错误截图说明。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><nav id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐对比</a></li><li><a href=\"#usage\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作与广告</a></li><li><a href=\"#links\">友情链接</a></li></ul></nav><section id=\"ads\"><h2>合作与广告</h2><div class=\"adbox\"><p>广告位与品牌合作：可投放网络工具、云主机或合规 ent 周边信息。本页为静态展示，不嵌入第三方脚本。商务需求请通过套餐工单或客户经理沟通，团队版含专属对接。</p></div></section><section id=\"links\"><h2>友情链接</h2><ul><li><a href=\"#\">客户端使用手册（站内说明）</a></li><li><a href=\"#plans\">快鱼套餐一览</a></li><li><a href=\"#download\">官方下载指引</a></li><li><a href=\"#faq\">机场订阅 FAQ</a></li></ul></section><p>快鱼(Fastfish) 官方网站 · 网络加速器与机场订阅信息页 · <a href=\"#\">canonical 首页</a></p></div></footer>",
+          "hash": "bf07550503742b85e2b84d850b7a7a9fa71d102f782611550afd1ed94c9479ca",
+          "seo": {
+            "title": "快鱼(Fastfish)官网 | 机场VPN加速器与客户端官方下载",
+            "keywords": "快鱼,Fastfish,快鱼机场,快鱼VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线,流媒体解锁",
+            "description": "快鱼(Fastfish)提供稳定的机场订阅与VPN网络加速服务，覆盖流媒体解锁、游戏IPLC与多设备客户端下载，基础版、旗舰版、团队版套餐可在官网选购。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nzhhw.cn",
+    "host": "p-aaa86f05f0.nzhhw.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nzhhw.cn",
+      "url": "https://nzhhw.cn/",
+      "label": "花云(FlowerCloud)",
+      "apex": "nzhhw.cn",
+      "kind": null,
+      "identity": "uccstkhy/page-c120df11ec08425f3d32d944"
+    },
+    {
+      "host": "hhoujiaodai.cn",
+      "url": "https://hhoujiaodai.cn/",
+      "label": "快鱼(Fastfish)",
+      "apex": "hhoujiaodai.cn",
+      "kind": null,
+      "identity": "huyrg2721/page-53c5432286bb1bab372a7f0f"
+    },
+    {
+      "host": "nmpyno.cn",
+      "url": "https://nmpyno.cn/",
+      "label": "快鱼(Fastfish)",
+      "apex": "nmpyno.cn",
+      "kind": null,
+      "identity": "wangbadani1/page-99b9c038b518d31f3b5516f5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "34144729df5d63c5262e241262b1dc0a97f6fc8142c7a02ac252dc6ae1f35ea6",
+    "sitemap.xml": "7e5d12a471ff36a3b8659329dca7a2c2e833d3442811a0d6e184ce32f29127f4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "acda0a27718fe1addfb6a9b34ce12fe2345061d15761ca16806aa8541c5945ea",
+    "robots.txt": "e7b37e8573daa35075d60c7c856713a93e9bb58bc314c70e09cd05267fd7f8cd",
+    "de66d61ac1f4a9b9e43525a290b7e07b.txt": "8d350ca6cf5fbeef007019721a3b3ab27e7d4ada4b225b816f4ddf1c2ba5e9f4"
+  },
+  "revision": "0e15fa97ad7f29de4ab256b14222f2b16ceb4c09a42be033bc06a67134056c5f"
+}
